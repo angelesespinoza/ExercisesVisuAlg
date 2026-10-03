@@ -1,2 +1,1 @@
-# ExerciciosVisualG
 Manzano/Faccat
